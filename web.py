@@ -14,6 +14,7 @@ def add_todo():
         functions.write_todos(todos)
 
 
+# This is a webapp
 # Application UI
 st.title("My Todo App")
 st.subheader("This is my todo app.")

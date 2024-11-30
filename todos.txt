@@ -4,3 +4,4 @@ Learn Python on Udemy
 Jog Daily
 Exercise daily
 Cancel GPT subscription
+Fix the commits
